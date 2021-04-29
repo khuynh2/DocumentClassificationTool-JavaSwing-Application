@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6D209F35
+eax=6C616D20 ebx=2009B670 ecx=00000000 edx=006B636F esi=611F3FF0 edi=00000000
+ebp=00A8C9A0 esp=00A8C830 program=D:\NetBeansProjects\grobid-master\grobid-home\pdf2xml\win-64\pdftoxml.exe, pid 10836, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+00A8C9A0  6D209F35 (33333333, 4068CF33, 00000004, 00000001)

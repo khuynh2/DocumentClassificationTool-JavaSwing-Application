@@ -1,0 +1,1 @@
+java -Xmx4G -jar grobid-core/build/libs/grobid-core-0.5.3-onejar.jar -gH grobid-home -dIn D:/Document/thesis/paper/format/trainingdata -dOut D:/Document/thesis/paper/format/trainingdata -exe createTraining
