@@ -9,10 +9,11 @@ An automatic document classifier that can classify pdf document while attempt to
 
 ## Technologies
 - Owl API
-- WordNet
-- Grobid
+- JWI (MIT Java Wordnet Interface)
+- GROBID
 - MALLET
 - Java Swing
+- SQLite
 
 ## User Manual
 
